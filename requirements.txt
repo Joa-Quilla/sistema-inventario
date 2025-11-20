@@ -1,0 +1,26 @@
+# Dependencias del Sistema de Inventario
+# Framework de UI
+flet>=0.23.0
+
+# Base de datos PostgreSQL
+psycopg2-binary>=2.9.9
+
+# Generación de reportes PDF
+reportlab>=4.0.7
+
+# Generación de reportes Excel
+openpyxl>=3.1.2
+pandas>=2.1.3
+xlsxwriter>=3.1.9
+
+# Variables de entorno
+python-dotenv>=1.0.0
+
+# Encriptación de contraseñas
+bcrypt>=4.1.1
+
+# Validaciones
+email-validator>=2.1.0
+
+# Utilidades de fecha
+python-dateutil>=2.8.2
