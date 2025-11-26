@@ -69,3 +69,9 @@ sistema_inventario/
 - **Backend:** Python
 - **Base de Datos:** PostgreSQL
 - **Reportes:** ReportLab, OpenPyXL
+
+## Autores 
+
+- **Josue Luis Bravo**
+- **Miriam Barrios Fuentes**
+- **Melsin Orozco Coronado**
